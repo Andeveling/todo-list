@@ -1,0 +1,11 @@
+ul {
+    list-style: none;
+    margin: 0;
+    padding: 10px 20px 46px 20px;
+    text-align: center;
+}
+
+.todoList-container {
+    box-sizing: border-box;
+    width: 100%;
+}

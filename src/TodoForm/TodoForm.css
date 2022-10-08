@@ -1,0 +1,39 @@
+.todoForm_container-button {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+}
+
+.form__todo {
+    display: flex;
+    flex-direction: column;
+}
+
+.form__todo label {
+    text-align: center;
+}
+
+.todoForm-button {
+    border: none;
+    color: #fff;
+    background-color: #f2347d;
+    height: 40px;
+    width: 40%;
+    border-radius: 4px;
+    font-size: large;
+    cursor: pointer;
+    transition: ease-in-out;
+    transition-duration: .2s;
+}
+
+.todoForm-button:hover {
+    background-color: #322740;
+}
+
+
+.new-todo {
+    border: none;
+    padding: 1rem;
+    font-size: 1.5rem;
+    border-radius: 8px;
+}

@@ -1,0 +1,11 @@
+.title_container {
+    margin-top: 10px;
+    text-align: center;
+    color: gray;
+}
+
+.title_container h1 {
+    font-size: 3rem;
+    line-height: 0.5rem;
+    font-weight: bold;
+}

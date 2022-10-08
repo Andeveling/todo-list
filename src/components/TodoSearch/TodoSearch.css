@@ -1,0 +1,25 @@
+.input_container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.inputToDo {
+    border: 0ch;
+    height: 3rem;
+    border-radius: 4px;
+    width: 80%;
+    padding: 8px;
+    font-size: 1.3rem;
+    color: #A5A5A5;
+}
+
+.inputToDo::placeholder {
+    color: #A5A5A5;
+    font-family: "Montserrat";
+    font-weight: 400;
+}
+
+.inputToDo:focus {
+    outline-color: #5efa1b;
+}
