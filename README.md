@@ -1,4 +1,4 @@
-# Todo Manage
+# Your Task App
 
 Una app que hizo parte de mi educación en Platzi que me aporto los conocimientos en el uso de Hooks, manejo de estado, Context api y el uso de Portales.
 tambien el concepto de permanencia de los datos usando el local Storage.
